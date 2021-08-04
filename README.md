@@ -21,7 +21,7 @@
      회사 소개(PAI, KCNET) + 기술 융합? / 기술 1 / 기술 2
 
      <details>
-         <summary>가술 참고 포스터</summary>
+         <summary>기술 참고 포스터</summary>
      <img src="https://lh3.googleusercontent.com/proxy/z9bhQ_YGEkXxbwYsJf3mKh4WeKTHeRzwLsjGh6Iy0m8lg1Sl1drqv9DXBIz7Dr1kb1JrOC48svRsONaxwFeHVr_xZINfi49jkppy5C-AtAZY6TWOAHOX9MbOh2aeQAyjW7h-bclguSXNDyTQZQ" /> 
      </details>
 
